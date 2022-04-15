@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @PrayushPai
-- 👀 I’m interested in Algorithmic Trading, Financial Sciences, Computer Systems.
-- 🌱 I’m currently learning C, C++, C#, JavaScript.
-- 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me (Email:- prayush.r@research.iiit.ac.in)
-
-<!---
-PrayushPai/PrayushPai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### This is a collection of some of my early Machine Learning Projects-
+* There are three projects in this file
+1. A dog and cat image classification algorithm
+2. Using YOLO to distinguish between different cars and then using graph-theory to find the best arrangement of traffic lights
+3. Weather prediction based on a given set of parameters.
